@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8a80a99-e593-446e-9de3-0b9e382dba3d": {
+      "ProjectGuid": "b8a80a99-e593-446e-9de3-0b9e382dba3d",
+      "DisplayName": "Task 1",
+      "ColorIndex": 0
+    },
+    "f3e5dd5c-0fa2-4e84-9aa1-0f9825f88125": {
+      "ProjectGuid": "f3e5dd5c-0fa2-4e84-9aa1-0f9825f88125",
+      "DisplayName": "Task 2",
+      "ColorIndex": 1
+    },
+    "f6ff920e-812a-4b4e-841f-d4b3e98f214a": {
+      "ProjectGuid": "f6ff920e-812a-4b4e-841f-d4b3e98f214a",
+      "DisplayName": "Task 3",
+      "ColorIndex": 2
+    },
+    "6992e859-4a53-4048-a513-1e43ab82ce93": {
+      "ProjectGuid": "6992e859-4a53-4048-a513-1e43ab82ce93",
+      "DisplayName": "Task 4",
+      "ColorIndex": 3
+    },
+    "68ff97d1-db05-4b60-977a-214266cf2663": {
+      "ProjectGuid": "68ff97d1-db05-4b60-977a-214266cf2663",
+      "DisplayName": "Task",
+      "ColorIndex": 4
+    },
+    "95f11af5-02df-4ac7-bc11-c9d2757fc659": {
+      "ProjectGuid": "95f11af5-02df-4ac7-bc11-c9d2757fc659",
+      "DisplayName": "Task 5",
+      "ColorIndex": 5
+    },
+    "2fede16e-9b32-4d2f-b8cd-0dddeee0751d": {
+      "ProjectGuid": "2fede16e-9b32-4d2f-b8cd-0dddeee0751d",
+      "DisplayName": "Task 6",
+      "ColorIndex": 6
+    },
+    "9fb5a653-cef9-4da7-9ab8-573494d3a5f7": {
+      "ProjectGuid": "9fb5a653-cef9-4da7-9ab8-573494d3a5f7",
+      "DisplayName": "Task 7",
+      "ColorIndex": 7
+    },
+    "cea5f6dc-9571-45ad-976b-a35fda71f964": {
+      "ProjectGuid": "cea5f6dc-9571-45ad-976b-a35fda71f964",
+      "DisplayName": "Task 8",
+      "ColorIndex": 8
+    },
+    "41d65519-91b3-4e10-beff-d11e82146e77": {
+      "ProjectGuid": "41d65519-91b3-4e10-beff-d11e82146e77",
+      "DisplayName": "Task 9",
+      "ColorIndex": 9
+    },
+    "add4e0ba-9787-495b-9b81-bf538291c06c": {
+      "ProjectGuid": "add4e0ba-9787-495b-9b81-bf538291c06c",
+      "DisplayName": "Task 10",
+      "ColorIndex": 10
+    },
+    "39467775-d5cb-4ce6-af56-1bc076c30646": {
+      "ProjectGuid": "39467775-d5cb-4ce6-af56-1bc076c30646",
+      "DisplayName": "Task 11",
+      "ColorIndex": 11
+    },
+    "ca6db72e-d6f2-40ba-9027-9cb39df2a8a4": {
+      "ProjectGuid": "ca6db72e-d6f2-40ba-9027-9cb39df2a8a4",
+      "DisplayName": "Task 12",
+      "ColorIndex": 12
+    },
+    "7667c76d-bd04-4de6-8508-95a30c086fda": {
+      "ProjectGuid": "7667c76d-bd04-4de6-8508-95a30c086fda",
+      "DisplayName": "Task 13",
+      "ColorIndex": 13
+    },
+    "f6f477bc-b5cb-4306-ad5a-b8898a102694": {
+      "ProjectGuid": "f6f477bc-b5cb-4306-ad5a-b8898a102694",
+      "DisplayName": "Task 14",
+      "ColorIndex": 14
+    },
+    "ef642003-a3e3-4730-8bce-bb93b81b9564": {
+      "ProjectGuid": "ef642003-a3e3-4730-8bce-bb93b81b9564",
+      "DisplayName": "Task 15 Boss Fight",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.exe
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.deps.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.runtimeconfig.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\ref\Task 15 Boss Fight.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\bin\Debug\net5.0\Task 15 Boss Fight.pdb
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.AssemblyInfo.cs
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\ref\Task 15 Boss Fight.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.pdb
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-2--22.01.2022\Evtapsiriglari 2 sol\Task 15 Boss Fight\obj\Debug\net5.0\Task 15 Boss Fight.genruntimeconfig.cache
