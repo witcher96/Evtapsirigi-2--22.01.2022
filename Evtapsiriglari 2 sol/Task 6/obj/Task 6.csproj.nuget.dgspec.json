@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\predator\\Desktop\\Code Tapsiriglar\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj": {}
+    "C:\\Users\\Hasanaal\\Desktop\\Stargate\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\predator\\Desktop\\Code Tapsiriglar\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj": {
+    "C:\\Users\\Hasanaal\\Desktop\\Stargate\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\predator\\Desktop\\Code Tapsiriglar\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj",
+        "projectUniqueName": "C:\\Users\\Hasanaal\\Desktop\\Stargate\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj",
         "projectName": "Task 6",
-        "projectPath": "C:\\Users\\predator\\Desktop\\Code Tapsiriglar\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj",
-        "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\predator\\Desktop\\Code Tapsiriglar\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\obj\\",
+        "projectPath": "C:\\Users\\Hasanaal\\Desktop\\Stargate\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\Task 6.csproj",
+        "packagesPath": "C:\\Users\\Hasanaal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasanaal\\Desktop\\Stargate\\Evtapsirigi-2--22.01.2022\\Evtapsiriglari 2 sol\\Task 6\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\predator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Hasanaal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

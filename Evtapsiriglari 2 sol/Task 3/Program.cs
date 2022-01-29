@@ -11,7 +11,7 @@ namespace Task_3
             double percent;
             double percent1;
 
-            if(a >9999 & a < 100000)
+            if(a >=10000 & a < 100000)
             {
                 percent = ((a * 18) / 100);
                 Console.WriteLine($"Cavab: {percent}");

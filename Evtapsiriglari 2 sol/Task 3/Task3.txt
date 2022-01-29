@@ -1,0 +1,14 @@
+﻿program
+Read a
+Read percent
+Read percent1
+
+if a>=10000 and a<100000
+INIT percent=a*18/100
+INIT percent1= a*3/100
+display "cavab: "	
+else 
+	print "Verilen eded 5 reqemli deyil"
+ENDIF
+		
+endprogram
